@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Andy Gotfridt. I work at [Improntus](https://improntus.com) as PHP Develope.
+My name is Andy Gotfridt. I work at [Improntus](https://improntus.com) as PHP Developer.
 
 #### Last Job
 [anatod](https://anatod.com) as CTO / PHP Developer.
