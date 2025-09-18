@@ -16,13 +16,14 @@
 - **Backend**: PHP (Magento 2, Symfony, Laravel), Node.js, Express  
 - **Frontend**: React, Tailwind  
 - **DevOps**: Docker, CI/CD, GitHub Actions  
-- **Databases / Search**: MySQL, MariaDB, Mongodb , Elasticsearch, Redis 
+- **Databases / Search**: MySQL, MariaDB, MongoDB , Elasticsearch, Redis 
 
 ---
 
 ## 💼 Experience
 - **Tech Lead** @ Improntus *(current)*  
-- **CTO / PHP Developer** @ [Anatod](https://anatod.com)  
+- **Founder / Full-Stack Developer** @ [MiFacturaDigital](https://mifacturadigital.com) – SaaS de **facturación electrónica**  
+- **CTO / PHP Developer** @ [anatod](https://anatod.com)  
 - Freelance & Open Source Contributor  
 
 ---
